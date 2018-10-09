@@ -4,7 +4,7 @@ Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression
 
 Description : 'Plots the average risk spillover effects after thresholding, by only considering the 30% largest connections of the network.'
 
-Keywords : Text analysis, LSA, t-SNE, clustering, kmeans clustering, spectral clustering, visualisation
+Keywords : Quantile regression, neural networks, systemic risk
 
 See also : 'NNQR_CoVaR, NNQR_Heat, NNQR_SNRI'
 
