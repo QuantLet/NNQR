@@ -1,1 +1,13 @@
+Name of QuantLet : NNQR_Comparison
 
+Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression'
+
+Description : 'Plots the SNRI in comparison to the Granger causlity measure of Billio et al. (2012) and the total connectedness of Diebold and Yilmaz (2014).'
+
+Keywords : Systemic risk, quantile regression, neural networks
+
+See also : 'NNQR_CoVaR, NNQR_Network, NNQR_SNRI'
+
+Author : Georg Keilbar
+
+Submitted : August 17, by Georg Keilbar
