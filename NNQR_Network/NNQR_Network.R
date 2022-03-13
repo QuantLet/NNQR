@@ -24,7 +24,7 @@ spill_Leh = as.matrix(read.csv(file = "Spillover_Lehman.csv"))
 network = graph_from_adjacency_matrix(spill_All, weighted = T, diag = F)
 E(network)$width = ((E(network)$weight)) * 5
 E(network)$color = "black"
-V(network)$name  = names
+V(network)$name  = colnames(data)[2:9]
 V(network)$color = "yellow"
 V(network)$label.cex = 1
 
